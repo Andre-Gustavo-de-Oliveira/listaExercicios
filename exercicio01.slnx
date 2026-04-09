@@ -4,4 +4,5 @@
   </Folder>
   <Project Path="exercicio01.ConsoleApp/exercicio01.ConsoleApp.csproj" />
   <Project Path="exercicio03.ConsoleApp/exercicio03.ConsoleApp.csproj" />
+  <Project Path="exercicio04.ConsoleApp/exercicio04.ConsoleApp.csproj" />
 </Solution>
