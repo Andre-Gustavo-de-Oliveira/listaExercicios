@@ -1,0 +1,15 @@
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\bin\Debug\net10.0\exercicio09.ConsoleApp.exe
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\bin\Debug\net10.0\exercicio09.ConsoleApp.deps.json
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\bin\Debug\net10.0\exercicio09.ConsoleApp.runtimeconfig.json
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\bin\Debug\net10.0\exercicio09.ConsoleApp.dll
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\bin\Debug\net10.0\exercicio09.ConsoleApp.pdb
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\exercicio09.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\exercicio09.ConsoleApp.AssemblyInfoInputs.cache
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\exercicio09.ConsoleApp.AssemblyInfo.cs
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\exercicio09.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\exercicio09.ConsoleApp.sourcelink.json
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\exercicio09.ConsoleApp.dll
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\refint\exercicio09.ConsoleApp.dll
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\exercicio09.ConsoleApp.pdb
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\exercicio09.ConsoleApp.genruntimeconfig.cache
+D:\Programming\Academia do Programador\listaExercicios\exercicio09.ConsoleApp\obj\Debug\net10.0\ref\exercicio09.ConsoleApp.dll
