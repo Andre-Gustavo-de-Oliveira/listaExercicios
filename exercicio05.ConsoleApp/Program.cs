@@ -18,4 +18,4 @@ double mediaPonderada = (nota1 * peso1 + nota2 * peso2) / (peso1 + peso2);
 
 Console.WriteLine("A média ponderada é: " + mediaPonderada);
 
-Console.ReadLine(); s
+Console.ReadLine();
